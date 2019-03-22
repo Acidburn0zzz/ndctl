@@ -4,3 +4,5 @@ plugins:
   - jekyll-mentions
 
 exclude: ['LICENSE', 'README.md', 'build-docs.sh', 'build', 'Gemfile*']
+
+theme: jekyll-theme-midnight
